@@ -6,7 +6,7 @@ This repository contains the core materials and results for a research project s
 
 ## 📁 Repository Contents
 
-### 1. `AdditionalityConstraint_Code.ipynb`
+### 1. `AdditionalityConstraint_Code_2.ipynb`
 
 This Python Jupyter Notebook implements and solves the optimal control problem numerically for four scenarios:
 
