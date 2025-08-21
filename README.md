@@ -15,7 +15,7 @@ This Python Jupyter Notebook implements and solves the optimal control problem n
 - **Scenario 3**: Normalizes (\hat{C}, \bar{C}, \theta) by (\sigma C_0) and considers a smaller (\bar{C}).
 - **Scenario 4**: Normalizes (\hat{C}, \bar{C}, \theta) by (\sigma C_0) and considers a larger (\bar{C}).
 
-We use a **direct approach** to solve the model by discretizing the problem and transcribing the optimal control formulation into a numerical optimization problem.
+We use a **direct approach** to numerically solve the model by discretizing the problem and transcribing the optimal control formulation into a numerical optimization problem.
 
 The notebook includes:
 - Visualizations of key policy-relevant results
