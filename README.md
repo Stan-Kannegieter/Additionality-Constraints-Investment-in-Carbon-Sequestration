@@ -23,7 +23,7 @@ The notebook includes:
 
 ---
 
-### 2. `Robustness test 2.xlsx`
+### 2. `Robustness test.xlsx`
 
 This Excel file summarizes results from **Scenarios 2–4**, including:
 - Total SOC sequestered by 2050 under the additionality constraint and under a fully monetizable carbon asset class
