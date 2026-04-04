@@ -23,7 +23,7 @@ The notebook includes:
 
 ---
 
-### 2. `Robustness test.xlsx`
+### 2. `Sensitivity analyses.xlsx`
 
 This Excel file summarizes results from **Scenarios 2–4**, including:
 - Total SOC sequestered by 2050 under the additionality constraint and under a fully monetizable carbon asset class
@@ -58,7 +58,7 @@ This project investigates how relaxing the additionality constraint and fully mo
 
 ### Python Model
 1. Clone the repository.
-2. Open `AdditionalityConstraint_Code.ipynb` in Jupyter Notebook or JupyterLab.
+2. Open `AdditionalityConstraint_Code_3.ipynb` in Jupyter Notebook or JupyterLab.
 3. Ensure the following Python packages are installed:
    ```bash
    pyomo.environ
