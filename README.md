@@ -25,13 +25,19 @@ The notebook includes:
 
 ### 2. `Sensitivity analyses.xlsx`
 
-This Excel file summarizes results from **Scenarios 2–4**, including:
-- Total SOC sequestered by 2050 under the additionality constraint and under a fully monetizable carbon asset class
-- A comparison of outcomes based on different calibration assumptions
+This Excel file summarizes the results from the optimal control problem for **Scenarios 2–4**, including:
+- Total SOC sequestered (for a representative oilseed and grain farmer and for a representative vegetable and melon farmer) by 2050 under the additionality constraint and under a fully monetizable carbon asset class.
+- A terminal time horizon sensitivity analysis focusing on 15 years (2040) and 30 years (2055) for a representative oilseed and grain farmer.
 
 ---
 
-### 3. `Texas.aprx` (ArcGIS Project File)
+### 3. `2022 Census Calculations.xlsx`
+
+This Excel file provides some of the data used to calculate the net income per hectare for a oilseed and grain farmer (NAICS 1111) and a vegetable and melon farmer (NAICS 1112) in Texas.
+
+---
+
+### 4. `Texas.aprx` (ArcGIS Project File)
 
 This ArcGIS Pro project contains spatial data for Texas, including:
 - **World Soils 250m Organic Carbon Stocks (2020)**
@@ -43,6 +49,7 @@ This ArcGIS Pro project contains spatial data for Texas, including:
 All layers are ready for:
 - Visual analysis
 - Map exports
+
 
 ---
 
